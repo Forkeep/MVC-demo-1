@@ -1,0 +1,31 @@
+.page{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#app1{
+    width: 50vw;
+    height: 50vh;
+    border:1px red solid
+}
+
+#app2{
+    width: 50vw;
+    height: 50vh;
+    border:1px red solid
+}
+
+
+#app3{
+    width: 50vw;
+    height: 50vh;
+    border:1px red solid;
+    padding: 10vw;
+}
+
+#app4{
+    width: 50vw;
+    height: 50vh;
+    border:1px red solid
+}
+

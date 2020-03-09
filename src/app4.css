@@ -1,0 +1,12 @@
+#app4 .circle{
+    border-radius: 50%;
+    background-color: yellow;
+    width: 20vw;
+    height: 20vw;
+    transition: all  1s;
+}
+
+#app4 .circle.active{
+    background-color: blue;
+    transition: all 1s;
+}

@@ -1,0 +1,44 @@
+#app2 .tab-btn{
+    display: flex;
+    flex-direction: row;
+
+
+}
+
+#app2 .tab-btn-1{
+    flex-grow: 1;
+    border: 1px solid black;
+
+}
+
+#app2 .tab-btn-1.active{
+    background-color: blue;
+    color: white;
+
+}
+#app2 .tab-btn-2{
+    flex-grow: 1;
+    border: 1px solid black;
+}
+
+#app2 .tab-btn-2.active{
+    background-color: blue;
+    color: white;
+
+
+}
+
+#app2 .tab-content-1{
+    display: none;
+}
+
+#app2 .tab-content-1.active{
+    display: block;
+}
+
+#app2 .tab-content-2{
+    display: none;
+}
+#app2 .tab-content-2.active{
+    display: block;
+}
